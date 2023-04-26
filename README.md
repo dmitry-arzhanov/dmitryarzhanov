@@ -1,12 +1,12 @@
 ![Header](https://github.com/dmitry-arzhanov/dmitryarzhanov/blob/main/assets/Header2.png)
 
-## Я начинающий автотестировщик на Java, 1 год работал ручным тестировщиком в крупнейшем онлайн-кинотеатре.
+### Я начинающий автотестировщик на Java, 1 год работал ручным тестировщиком в крупнейшем онлайн-кинотеатре.
 
-## CV
+### CV
 [Link to CV](https://disk.yandex.ru/i/K8Y7uhVqngk_Kw)
 
 
-## Languages and Tools
+### Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=javascript&logoColor=#F7DF1E)
 ![Selenium](https://img.shields.io/badge/-Selenium-000000?style=for-the-badge&logo=selenium&logoColor=#43B02A)
 ![JIRA](https://img.shields.io/badge/-JIRA-000000?style=for-the-badge&logo=jira&logoColor=#0052CC)

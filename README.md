@@ -1,4 +1,4 @@
-![Header](https://github.com/dmitry-arzhanov/dmitryarzhanov/blob/main/assets/Header.png)
+![Header](https://github.com/dmitry-arzhanov/dmitryarzhanov/blob/main/assets/Header2.png)
 
 About me
 

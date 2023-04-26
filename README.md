@@ -10,5 +10,3 @@
 ![Gitlab](https://img.shields.io/badge/-Gitlab-7DE2FC?style=for-the-badge&logo=gitlab&logoColor=#181717)
 ![SQL](https://img.shields.io/badge/-SQL-7DE2FC?style=for-the-badge&logo=postgresql&logoColor=#4169E1)
 
-Follow me
-

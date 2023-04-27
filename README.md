@@ -16,7 +16,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=#181717)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-000000?style=for-the-badge&logo=gitlab&logoColor=#181717)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql&logoColor=#4169E1)
-![Figma](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=Figma&logoColor=##F24E1E)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=Figma&logoColor=##F24E1E)
 
 ### Write to me
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=#26A5E4)](https://t.me/Dmitry_ar)

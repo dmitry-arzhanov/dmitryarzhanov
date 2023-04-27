@@ -1,7 +1,6 @@
 ![Header](https://github.com/dmitry-arzhanov/dmitryarzhanov/blob/main/assets/Header2.png)
 
-### Я Junior автоматизатор на Java
-### 1 год работал ручным тестировщиком в крупнейшем онлайн-кинотеатре.
+### Я Junior автоматизатор на Java, 1 год работал ручным тестировщиком в крупнейшем онлайн-кинотеатре.
 
 ### CV
 [Link to CV](https://disk.yandex.ru/i/K8Y7uhVqngk_Kw)

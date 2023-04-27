@@ -20,7 +20,7 @@
 
 ### Write to me
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=#26A5E4)](https://t.me/Dmitry_ar)
-[![whatsapp](https://img.shields.io/badge/-whatsapp-000000?style=for-the-badge&logo=whatsapp&logoColor=#25D366)](https://t.me/Dmitry_ar)
-[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=maildotru&logoColor=#005FF9)](<a href="mailto:dmitry.arzhanov.work@yandex.ru">)
+[![whatsapp](https://img.shields.io/badge/-whatsapp-000000?style=for-the-badge&logo=whatsapp&logoColor=#25D366)](https://wa.me/79263375585)
+![Email](https://img.shields.io/badge/-dmitry.arzhanov.work@ya.ru-000000?style=for-the-badge&logo=maildotru&logoColor=#005FF9)
 
 

@@ -1,4 +1,4 @@
-![Header](https://github.com/dmitry-arzhanov/dmitryarzhanov/blob/main/assets/Header2.png)
+![Header](https://github.com/dmitry-arzhanov/dmitryarzhanov/blob/main/assets/Header3.png)
 
 ## Люблю свою профессию, за то, что я первый пользуюсь продуктом, тестирую новые фичи, сообщаю о найденных дефектах своей команде, помогаю улучшить интерфейс до того как его увидят остальные пользователи (клиенты). 
 

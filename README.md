@@ -1,12 +1,24 @@
-![Header](https://github.com/dmitry-arzhanov/dmitryarzhanov/blob/main/assets/Header2.png)
+![Header](https://github.com/dmitry-arzhanov/dmitryarzhanov/blob/main/assets/Header3.png)
 
-### Я Junior автоматизатор на Java, 1 год работал ручным тестировщиком в крупнейшем онлайн-кинотеатре.
+## Люблю свою профессию, за то, что я первый пользуюсь продуктом, тестирую новые фичи, сообщаю о найденных дефектах своей команде, помогаю улучшить интерфейс до того как его увидят остальные пользователи (клиенты). 
 
-### CV
-[Link to CV](https://disk.yandex.ru/i/K8Y7uhVqngk_Kw)
+Я внимателен к деталям, с интересом изучаю требования к продукту и общаюсь с командой разработки. 
+
+Увлечен своей профессией и хочу в ней развиваться.
+
+Тестированию обучался на курсах Яндекс.Практикум и Skillbox.
+
+Сейчас прохожу обучение языку программирования Java.
 
 
-### Languages and Tools
+### CV on HeadHunter
+[Link to CV](https://hh.ru/resume/d558df7fff0c06570e0039ed1f453377557164)
+
+### Profile on Linkedin
+[Link to CV](https://www.linkedin.com/in/dmitry-arzhanov-qa/)
+
+
+### Tools
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=javascript&logoColor=#F7DF1E)
 ![Selenium](https://img.shields.io/badge/-Selenium-000000?style=for-the-badge&logo=selenium&logoColor=#43B02A)
 ![JIRA](https://img.shields.io/badge/-JIRA-000000?style=for-the-badge&logo=jira&logoColor=#0052CC)
@@ -18,7 +30,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql&logoColor=#4169E1)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=Figma&logoColor=##F24E1E)
 
-### Write to me
+### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=#26A5E4)](https://t.me/Dmitry_ar)
 [![whatsapp](https://img.shields.io/badge/-whatsapp-000000?style=for-the-badge&logo=whatsapp&logoColor=#25D366)](https://wa.me/79263375585)
 ![Email](https://img.shields.io/badge/-dmitry.arzhanov.work@ya.ru-000000?style=for-the-badge&logo=maildotru&logoColor=#005FF9)
